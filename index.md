@@ -1,6 +1,5 @@
----
-title: My Portfolio
----
+# My Portfolio
+
 
 ## Education
 
