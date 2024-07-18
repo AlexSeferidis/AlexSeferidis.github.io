@@ -3,7 +3,7 @@ version: 1
 project:
   id: f3609f3f-4731-4b53-93d9-197ce48fe0ee
   title: Home
-  description: An Electronic Engineer
+  description: Portfolio Page 
   # keywords: []
   authors:
     - name: Contact / Social Media
@@ -54,4 +54,4 @@ site:
   options:
     # favicon: CNV00002.jpg #my-favicon.ico
     logo: CNV00002.jpg #my-site-logo.svg
-    logo_text: Alex Seferidis - An Electronic Engineer
+    logo_text: Alex Seferidis - Electronic Engineering
