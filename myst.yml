@@ -18,15 +18,15 @@ project:
     - file: index.md
     - title: Experience
       children:
-        - file: Experience\UOB.md
-        - file: Experience\UTOP.md
+        - file: .\Experience\UOB.md
+        - file: .\Experience\UTOP.md
     - title: Projects
       children:
-        - file: Projects\Compiler.md
-        - file: Projects\EEERover.md
-        - file: Projects\FPGARacing.md
-        - file: Projects\MathsAcc.md
-        - file: Projects\RISCV_CPU.md
+        - file: .\Projects\Compiler.md
+        - file: .\Projects\EEERover.md
+        - file: .\Projects\FPGARacing.md
+        - file: .\Projects\MathsAcc.md
+        - file: .\Projects\RISCV_CPU.md
     
 site:
   template: book-theme
