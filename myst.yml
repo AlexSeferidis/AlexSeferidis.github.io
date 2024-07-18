@@ -52,6 +52,6 @@ site:
   #   url: https://www.linkedin.com/in/alex-seferidis/
 
   options:
-    favicon: CNV00002.jpg #my-favicon.ico
+    # favicon: CNV00002.jpg #my-favicon.ico
     logo: CNV00002.jpg #my-site-logo.svg
     logo_text: Alex Seferidis - An Electronic Engineer
