@@ -5,11 +5,11 @@ project:
   title: Home
   description: Portfolio Page 
   github: https://github.com/AlexSeferidis
-  # authors:
-  #   - name: Contact / Social Media
-  #     github: AlexSeferidis
-  #     email: as8822@ic.ac.uk
-  #     url: https://www.linkedin.com/in/alex-seferidis/
+  authors:
+    - name: Contact / Social Media
+      github: AlexSeferidis
+      email: as8822@ic.ac.uk
+      url: https://www.linkedin.com/in/alex-seferidis/
 
 
   # To autogenerate a Table of Contents, run "myst init --write-toc"
@@ -30,18 +30,18 @@ project:
     
 site:
   template: book-theme
-  # nav:
-  # - title: Find My Work
-  #   children:
-  #     - title: GitHub
-  #       url: https://github.com/AlexSeferidis
-  #     - title: Google Scholar
-  #       url: https://scholar.google.com/citations?user=lBftv6YAAAAJ&hl=en&authuser=1
-  #     - title: Photography
-  #       url: http://seferidis.com
+  nav:
+  - title: Find My Work
+    children:
+      - title: GitHub
+        url: https://github.com/AlexSeferidis
+      - title: Google Scholar
+        url: https://scholar.google.com/citations?user=lBftv6YAAAAJ&hl=en&authuser=1
+      - title: Photography
+        url: http://seferidis.com
 
-  # - title: A standalone link
-  #   url: https://jupyter.org
+  - title: A standalone link
+    url: https://jupyter.org
 
   options:
     # favicon: CNV00002.jpg #my-favicon.ico
