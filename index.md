@@ -68,7 +68,7 @@ Current Grade: 2:1
 ::::{grid} 1 1 2 3
 
 :::{card}
-:header: [Qunatum Networking Research Internship](https://alexseferidis.github.io/uob) 📡
+:header: [Quantum Networking Research Internship](https://alexseferidis.github.io/uob) 📡
 Performing experiments on quantum and classical co-existence systems
 :::
 
