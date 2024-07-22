@@ -15,5 +15,6 @@ Below are the skills and experiences gained from the project:
 * Competencies with C++ and SystemVerilog
 * Competency using Verilator
 * Competency using GitHub for collaborative development
+* Competency using shell scripts
 * Knowledge of computer architecture theory and principles
 * Experience working in a team

@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-During Summer 2024 I worked at Imperial. I was part of a team dedicated to modernising the 'Neuroscience for Machine Learners Course'. This meant converting the course into MyST Markdown, an extension of Markdown for technical, scientific communication and publication. Further from this, I aided the development of a more interactive textbook experiences react app.
+During Summer 2024 I worked at Imperial. I was part of a team dedicated to modernising the 'Neuroscience for Machine Learners Course'. This meant converting the course into MyST Markdown, an extension of Markdown for technical, scientific communication and publication.
 
 ## Skills
 

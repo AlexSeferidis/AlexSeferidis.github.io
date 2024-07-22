@@ -27,8 +27,8 @@ site:
       - title: Photography
         url: http://seferidis.com
 
-  - title: A standalone link
-    url: https://jupyter.org
+  # - title: A standalone link
+  #   url: https://jupyter.org
 
   options:
     # favicon: CNV00002.jpg #my-favicon.ico

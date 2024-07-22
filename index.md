@@ -65,7 +65,7 @@ Current Grade: 2:1
 
 ## Experience
 
-::::{grid} 1 1 2 3
+::::{grid} 1 1 2 2
 
 :::{card}
 :header: [Quantum Networking Research Internship](https://alexseferidis.github.io/uob) 📡
@@ -77,10 +77,10 @@ Performing experiments on quantum and classical co-existence systems
 Modernising Imperial course, 'Neuroscience For Machine Learners' 
 :::
 
-:::{card}
+<!-- :::{card}
 :header: Executable content 🔁
 Execute notebook cells, store results, and insert outputs across pages.
-:::
+::: -->
 ::::
 
 ## Projects
