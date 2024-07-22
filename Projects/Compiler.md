@@ -6,9 +6,9 @@
 
 ## Synopsis
 
-A C90 to RISC-V compiler, written in C++. This was a spring term coursework assignment for Imperial module, Instruction Set Architecture & Compilers (IAC).
+A C90 to RISC-V compiler, written in C++. This was a spring term coursework assignment for Imperial module, `Instruction Set Architecture & Compilers' (IAC).
 
-Below is an enumerative list of all the C90 features the compiler is capable of compiling into RISV assembly:
+Below is an enumerative list of all the C90 features the compiler is capable of compiling into RISCV assembly:
 
 * Function definition
 * Parameter allocation

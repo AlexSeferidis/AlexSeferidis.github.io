@@ -6,7 +6,7 @@
 
 ## Synopsis
 
-A single-cycle and pipelined RISC-V CPU, described in SystemVerilog. This was a spring term coursework assignment for Imperial module, Instruction Set Architecture & Compilers (IAC). In this group project, I was responsible for designing modules using SystemVerilog as well as writing testbenches with Verilator in C++.
+A single-cycle and pipelined RISC-V CPU, described in SystemVerilog. This was a spring term coursework assignment for Imperial module, `Instruction Set Architecture & Compilers' (IAC). In this group project, I was responsible for designing modules using SystemVerilog as well as writing testbenches with Verilator in C++.
 
 ## Skills
 

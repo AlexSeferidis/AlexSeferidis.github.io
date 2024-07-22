@@ -6,7 +6,7 @@
 
 ## Synopsis
 
-An IoT project FPGA racing game, making use of a DE10 Lite board as a controller, and game built using Unreal which interacts with a server. This was a coursework assignment for Imperial module, Information Processing. I part of the FPGA-side development, whereby a custom hardware accompanied by C program was developed to take accelerometer readings and output them to a client via UART.  
+An IoT project FPGA racing game, making use of a DE10 Lite FPGA board as a controller for a game built using Unreal, which interacts with a server. This was a coursework assignment for the Imperial module, `Information Processing'. I was part of the FPGA-side development, whereby custom hardware accompanied by a C program was developed to take accelerometer readings and output them to a client via UART.  
 
 ## Skills
 
