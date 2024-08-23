@@ -24,7 +24,7 @@ Current Grade: 2:1
 **2nd Year Modules**
 
 * Instruction Architecture and Compilers
-* Signal and Systems
+* Signals and Systems
 * Software Systems
 * Discrete Mathematics
 * Mathematics for Engineers II
