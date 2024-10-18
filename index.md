@@ -32,6 +32,17 @@ Current Grade: 2:1
 * Control Systems
 * Communications
 
+**3rd Year Modules**
+
+* Biomedical Electronics
+* Introduction to Machine Learning
+* Control Engineering
+* Digital Signal Processing
+* Robotic Manipulation
+* Computer Vision
+* Real-Time Digital Signal Processing
+* Spanish 
+
 **Extra-Curricular**
 
 * Soup Run Society Treasurer (Volunteering)
