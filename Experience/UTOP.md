@@ -14,3 +14,7 @@ Below are the skills and experiences gained from the internship:
 
 * Competencies with MyST Markdown, GitHub actions and bash scripts
 * Experience in a new product development environment, providing me with experience of satisfying stakeholder requirements, software development practices and agile development.
+
+---
+
+![alt](n4mlimage.png 'title')

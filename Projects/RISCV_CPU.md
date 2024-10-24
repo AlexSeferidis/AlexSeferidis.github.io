@@ -18,3 +18,7 @@ Below are the skills and experiences gained from the project:
 * Competency using shell scripts
 * Knowledge of computer architecture theory and principles
 * Experience working in a team
+
+---
+
+![alt text](CPUImage.png 'title')

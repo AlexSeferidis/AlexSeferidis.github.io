@@ -18,3 +18,7 @@ Below are the skills and experiences gained from the project:
 * Knowledge of basic RF circuit design and theory
 * Experience working in a team
 * Experience working with budgetary constraints 
+
+---
+
+![alt](EEERoverImage.jpg 'title')

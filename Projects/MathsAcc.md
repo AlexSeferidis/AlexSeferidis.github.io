@@ -17,3 +17,11 @@ Below are the skills and experiences gained from the project:
 * Competency using GitHub for collaborative development
 * Experience with FPGA development and workflow
 * Experience working in a team
+
+---
+
+![alt](FractalDesignImage.png 'title')
+
+---
+
+![alt](FractalImage.jpg 'title')

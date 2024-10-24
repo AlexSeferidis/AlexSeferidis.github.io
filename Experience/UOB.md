@@ -18,3 +18,11 @@ Below are the skills and experiences gained from the internship:
 * Experience working in a team
 * Experience in a lab environment
 * Experience in a research environment
+
+---
+
+![alt](UOB1image.jpg 'title')
+
+---
+
+![alt](UOB2image.jpg 'title')
