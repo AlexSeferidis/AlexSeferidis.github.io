@@ -11,7 +11,7 @@ For my Year 3 ML module at Imperial College London I was tasked with:
 * Implementing a decision tree algorithm, using it to determine an indoor
 location based on WIFI signal strengths collected from a mobile phone.
 
-* Developing and optimised a neural network architecture to predict the price of houses in California using the California House Prices Dataset. 
+* Developing and optimising a neural network architecture to predict the price of houses in California using the California House Prices Dataset. 
 
 
 ## Skills
