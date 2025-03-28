@@ -97,7 +97,7 @@ Execute notebook cells, store results, and insert outputs across pages.
 
 ## Projects
 
-::::{grid} 1 1 2 3
+::::{grid} 1 1 2 4
 
 :::{card}
 :header: [C to RISCV Compiler](https://alexseferidis.github.io/compiler) 💻
@@ -105,13 +105,18 @@ A compiler written in C++, capable of compiling a number of C constructs into RI
 :::
 
 :::{card}
-:header: [FPGA Accelerated Fractal Visualiser](https://alexseferidis.github.io/mathsacc) 📈
-A fractal visualiser system with accelerated hardware synthesised on a PYNQ-Z1
-FPGA
+:header: [Brain Scan CNN](https://alexseferidis.github.io/cv-2) 🧠
+An image segmentation CNN trained to identify tumours and edema from brains scans
 :::
 
 :::{card}
 :header: [RISCV CPU](https://alexseferidis.github.io/riscv-cpu) 🔁
 A functional single cycle and pipelined RISC-V CPU
+:::
+
+:::{card}
+:header: [FPGA Accelerated Fractal Visualiser](https://alexseferidis.github.io/mathsacc) 📈
+A fractal visualiser system with accelerated hardware synthesised on a PYNQ-Z1
+FPGA
 :::
 ::::
