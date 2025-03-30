@@ -26,3 +26,5 @@ Below are the skills and experiences gained from this project:
 * Knowledge of real-time dsp concepts and principles
 
 ---
+
+![alt](finaldes.png 'title')
