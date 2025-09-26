@@ -89,10 +89,11 @@ Performing experiments on quantum and classical co-existence systems
 Modernising Imperial course, 'Neuroscience For Machine Learners' 
 :::
 
-<!-- :::{card}
-:header: Executable content 🔁
-Execute notebook cells, store results, and insert outputs across pages.
-::: -->
+:::{card}
+:header: [Data and Control Intern](https://alexseferidis.github.io/xcl) 🧫
+Delivering software and hardware solutions for bioprocessing engineers and media development scientists.
+:::
+
 ::::
 
 ## Projects
