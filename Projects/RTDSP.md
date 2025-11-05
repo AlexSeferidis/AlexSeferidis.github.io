@@ -1,4 +1,4 @@
-# Real-Time Audio Classification Using DSP Boards 
+# Real-Time Audio Detection Using DSP Boards 
 
 **Feb. 2025 - April 2025**
 
@@ -15,7 +15,7 @@ The solutions were designed and tested using Matlab/Simulink and then deployed o
 
 1. Frequency thresholding for beep detection
 2. Cross correlation of frequency spectra using STFTs
-3. Trained linear SVM to perform audio classification using MFCC features
+3. Trained linear SVM to perform audio detection using MFCC features
 
 ## Skills
 
@@ -23,7 +23,7 @@ Below are the skills and experiences gained from this project:
 
 * Competencies with Simulink and MATLAB
 * Competencies using the Audio Toolbox, Embedded Coder and the Deep Learning Toolbox
-* Knowledge of real-time dsp concepts and principles
+* Knowledge of real-time DSP concepts and principles
 
 ---
 

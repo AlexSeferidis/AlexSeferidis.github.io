@@ -41,7 +41,16 @@ Current Grade: 2:1
 * Robotic Manipulation
 * Computer Vision
 * Real-Time Digital Signal Processing
-* Spanish 
+* Spanish
+
+**4th Year Modules**
+
+* Digital Image Processing
+* Computational Sensing and Imaging
+* Wavelets, Representation Learning and their Applications
+* Neuroscience for Machine Learners
+* Deep Learning
+* Machine Learning for Imaging
 
 **Extra-Curricular**
 
