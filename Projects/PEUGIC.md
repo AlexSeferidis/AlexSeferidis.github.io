@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-For my final-year MEng project, I designed and evaluated a machine-learning framework for predicting patient-level Post-Endoscopy Upper Gastrointestinal Cancer (PEUGIC) risk from endoscopic photodocumentation. PEUGIC describes upper gastrointestinal cancers diagnosed following a recent endoscopy that did not identify cancer, representing a potential missed opportunity for earlier detection.
+For my final-year MEng project, I designed and evaluated a machine-learning framework for predicting a patient's Post-Endoscopy Upper Gastrointestinal Cancer (PEUGIC) risk from endoscopic photodocumentation. PEUGIC describes upper gastrointestinal cancers diagnosed following a recent endoscopy that did not identify cancer, representing a potential missed opportunity for earlier detection.
 
 The framework included a pathology-classification system for identifying Barrett's oesophagus, healthy/normal anatomy and oesophagitis, and an object-detection system for identifying image artefacts and indicators of photodocumentation quality. The classification system evaluated single-model, ensemble and two-stage CNN architectures alongside a custom contrast-enhancement pipeline, while the artefact detector compared modern YOLO and transformer-based models.
 

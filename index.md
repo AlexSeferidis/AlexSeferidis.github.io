@@ -107,11 +107,16 @@ Delivering software and hardware solutions for bioprocessing engineers and media
 
 ## Projects
 
-::::{grid} 1 1 2 4
+::::{grid} 1 1 2 2
 
 :::{card}
 :header: [C to RISCV Compiler](https://alexseferidis.github.io/compiler) 💻
 A compiler written in C++, capable of compiling a number of C constructs into RISCV assembly
+:::
+
+:::{card}
+:header: [PEUGIC Framework](https://alexseferidis.github.io/peugic) 🚑
+A ML framework for predicting a patient's Post-Endoscopy Upper Gastrointestinal Cancer (PEUGIC) risk from endoscopic photodocumentation.
 :::
 
 :::{card}
@@ -120,13 +125,7 @@ An image segmentation CNN trained to identify tumours and edema from brains scan
 :::
 
 :::{card}
-:header: [RISCV CPU](https://alexseferidis.github.io/riscv-cpu) 🔁
-A functional single cycle and pipelined RISC-V CPU
-:::
-
-:::{card}
-:header: [FPGA Accelerated Fractal Visualiser](https://alexseferidis.github.io/mathsacc) 📈
-A fractal visualiser system with accelerated hardware synthesised on a PYNQ-Z1
-FPGA
+:header: [Mammogram Density Classification](https://alexseferidis.github.io/mathsacc) 🏥
+A classification and image processing project for classifying breast density from mammogram images
 :::
 ::::
