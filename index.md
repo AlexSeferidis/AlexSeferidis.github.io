@@ -1,131 +1,201 @@
-# My Portfolio
+---
+title: Alex Seferidis - Portfolio
+short_title: Home
+site:
+  hide_outline: true
+  hide_toc: true
+  hide_title_block: true
+---
 
++++ {"class": "portfolio-hero"}
 
-## Education
+:::::{grid} 1 1 2 2
+:class: hero-grid
 
-::::{tab-set}
-:::{tab-item} Imperial College London
-:sync: tab1
-**Electronic & Information Engineering MEng (Oct. 2022 - Jul. 2026)**
-
-Current Grade: 2:1
-
-**1st Year Modules**
-
-* Digital Electronics and Computer Architecture
-* Analogue and Design of Circuits
-* Programming for Engineers
-* Mathematics for Engineers I
-* Waves
-* Semiconductor Devices
-* Electrical Power
-* Signals and Communications
-
-**2nd Year Modules**
-
-* Instruction Architecture and Compilers
-* Signals and Systems
-* Software Systems
-* Discrete Mathematics
-* Mathematics for Engineers II
-* Information Processing
-* Control Systems
-* Communications
-
-**3rd Year Modules**
-
-* Biomedical Electronics
-* Introduction to Machine Learning
-* Control Engineering
-* Digital Signal Processing
-* Robotic Manipulation
-* Computer Vision
-* Real-Time Digital Signal Processing
-* Spanish
-
-**4th Year Modules**
-
-* Digital Image Processing
-* Computational Sensing and Imaging
-* Wavelets, Representation Learning and their Applications
-* Neuroscience for Machine Learners
-* Deep Learning
-* Machine Learning for Imaging
-
-**Extra-Curricular**
-
-* Soup Run Society Treasurer (Volunteering)
-* Football
-
-:::
-:::{tab-item} Bristol Grammar School
-:sync: tab2
-**A-Levels (Sep. 2020 - Aug. 2022)**
-
-**Subjects**
-
-* Maths A*
-* Further Maths A
-* Physics A
-* Computer Science A
-
-**Awards**
-
-* Computer Science Scholarship
-* The Old Bristolians’ Prize For Special Merit in Computing
-
-**Extra-Curricular**
-
-* Football Vice-Captain of 2nd XI
-* Cricket
-* Founded and Ran PC-Building Club
-
-:::
+::::{image} CNV00002.jpg
+:alt: Alex Seferidis
+:class: hero-image
 ::::
 
+::::{div}
+:class: hero-copy
+
+Engineer
+
+## Alex Seferidis
+
+MEng Electronic & Information Engineering student at Imperial College London.
+
+Interested in machine learning, image and signal processing, and medical imaging.
+
+<div class="hero-social-links">
+  <a href="https://github.com/AlexSeferidis">GitHub</a>
+  <a href="https://www.linkedin.com/in/alex-seferidis/">LinkedIn</a>
+  <a href="mailto:seferidisalex@gmail.com">Email</a>
+</div>
+
+<div class="hero-actions">
+  <a href="#projects" class="hero-button hero-button-primary">View Projects</a>
+  <a href="#experience" class="hero-button hero-button-secondary">View Experience</a>
+</div>
+::::
+
+:::::
+
++++ {"kind": "centered", "class": "portfolio-section education-summary"}
+
+Education
+
+## Imperial College London
+
+**MEng Electronic & Information Engineering**  
+Oct. 2022 – Jul. 2026
+
+Specialising with modules spanning machine learning, medical imaging, signal processing, image processing, computational imaging, and computer vision.
+
+{button}`View Education </education>`
+
++++ {"kind": "justified", "class": "portfolio-section"}
+
+Selected experience
 
 ## Experience
 
-::::{grid} 1 1 2 2
+Research and engineering experience across quantum networking, education technology, and bioprocessing.
 
-:::{card}
-:header: [Quantum Networking Research Internship](https://alexseferidis.github.io/uob) 📡
-Performing experiments on quantum and classical co-existence systems
+:::::{grid} 1 1 3 3
+:class: portfolio-grid
+
+::::{card} Quantum Networking Research Internship
+:url: /uob
+:footer: University of Bristol
+:class: portfolio-card
+
+:::{image} Experience/images/UOB1image.jpg
+:alt: Quantum networking research
+:height: 210px
+:class: portfolio-card-image
 :::
 
-:::{card}
-:header: ['Textbook of the Future' Development](https://alexseferidis.github.io/utop) 📖
-Modernising Imperial course, 'Neuroscience For Machine Learners' 
-:::
-
-:::{card}
-:header: [Data and Control Intern](https://alexseferidis.github.io/xcl) 🧫
-Delivering software and hardware solutions for bioprocessing engineers and media development scientists.
-:::
-
+Investigating the coexistence of quantum and classical communication systems.
 ::::
+
+::::{card} Textbook of the Future
+:url: /utop
+:footer: Imperial College London
+:class: portfolio-card
+
+:::{image} Experience/images/n4mlimage.png
+:alt: Textbook of the Future project
+:height: 210px
+:class: portfolio-card-image
+:::
+
+Modernising Imperial College London's Neuroscience for Machine Learners course.
+::::
+
+::::{card} Data and Control Intern
+:url: /xcl
+:footer: Extracellular
+:class: portfolio-card
+
+:::{image} Experience/images/xcl_br.jpg
+:alt: Bioprocessing engineering internship
+:height: 210px
+:class: portfolio-card-image
+:::
+
+Developing software and hardware solutions for bioprocessing engineers and media-development scientists.
+::::
+
+:::::
+
++++ {"kind": "justified", "class": "portfolio-section projects-section"}
+
+Selected work
 
 ## Projects
 
-::::{grid} 1 1 2 2
+A collection of projects and courseworks in a range of engineering fields
 
-:::{card}
-:header: [C to RISCV Compiler](https://alexseferidis.github.io/compiler) 💻
-A compiler written in C++, capable of compiling a number of C constructs into RISCV assembly
+:::::{grid} 1 1 2 2
+:class: portfolio-grid
+
+::::{card} C to RISC-V Compiler
+:url: /compiler
+:footer: C++ · Compilers · RISC-V
+:class: portfolio-card
+
+:::{image} Projects/images/C_Logo.png
+:alt: C to RISC-V compiler
+:height: 220px
+:class: portfolio-card-image
 :::
 
-:::{card}
-:header: [PEUGIC Framework](https://alexseferidis.github.io/peugic) 🚑
-A ML framework for predicting a patient's Post-Endoscopy Upper Gastrointestinal Cancer (PEUGIC) risk from endoscopic photodocumentation.
-:::
-
-:::{card}
-:header: [Brain Scan CNN](https://alexseferidis.github.io/cv-2) 🧠
-An image segmentation CNN trained to identify tumours and edema from brains scans
-:::
-
-:::{card}
-:header: [Mammogram Density Classification](https://alexseferidis.github.io/mathsacc) 🏥
-A classification and image processing project for classifying breast density from mammogram images
-:::
+A C++ compiler capable of translating a range of C constructs into RISC-V assembly.
 ::::
+
+::::{card} PEUGIC Framework
+:url: /peugic
+:footer: Machine learning · Medical imaging
+:class: portfolio-card
+
+:::{image} Projects/images/Design-Diagram.png
+:alt: PEUGIC machine-learning framework
+:height: 220px
+:class: portfolio-card-image
+:::
+
+A machine-learning framework for predicting post-endoscopy upper gastrointestinal cancer risk.
+::::
+
+::::{card} Brain Scan CNN
+:url: /cv-2
+:footer: PyTorch · Segmentation · MRI
+:class: portfolio-card
+
+:::{image} Projects/images/BRATS_004_z108.png
+:alt: Brain tumour segmentation results
+:height: 220px
+:class: portfolio-card-image
+:::
+
+A convolutional network trained to segment tumours and oedema from brain scans.
+::::
+
+::::{card} Mammographic Density Classification
+:url: /denseclass
+:footer: PyTorch · Image Processing · Model evaluation
+:class: portfolio-card
+
+:::{image} Projects/images/pca1-pca2.png
+:alt: Mammographic density classification
+:height: 220px
+:class: portfolio-card-image
+:::
+
+A classification and image-processing pipeline for predicting breast density from mammograms.
+::::
+
+:::::
+
++++ {"kind": "centered", "class": "landing-footer"}
+
+(footer)=
+## Work and Socials
+
+Connect with me and find the work I've done from the links below
+
+:::{div}
+:class: social-links footer-social-links
+
+[Email](mailto:seferidisalex@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alex-seferidis/)
+[GitHub](https://github.com/AlexSeferidis)
+:::
+
+:::{div}
+:class: footer-meta
+
+© 2026 Alex Seferidis
+:::

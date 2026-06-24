@@ -33,3 +33,4 @@ site:
     # favicon: CNV00002.jpg #my-favicon.ico
     logo: CNV00002.jpg #my-site-logo.svg
     logo_text: Alex Seferidis - Engineer
+    style: ./styles.css

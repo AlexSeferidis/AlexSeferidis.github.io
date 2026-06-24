@@ -1,0 +1,277 @@
+/* --------------------------------------------------------------------------
+   Landing-page layout
+   These selectors are scoped to classes used only in index.md, so the rest of
+   the book-theme pages retain their normal styling.
+   -------------------------------------------------------------------------- */
+
+.portfolio-hero {
+  min-height: 60vh;
+  padding-block: clamp(2rem, 5vw, 4rem);
+}
+
+/* Two-column grid that mirrors split-image proportions */
+.hero-grid {
+  align-items: center;
+  gap: clamp(2rem, 6vw, 5rem);
+}
+
+/* Subtitle paragraph ("Engineer") before the h2 */
+.hero-copy > p:first-child {
+  margin-bottom: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.55;
+}
+
+/* Photo column */
+.hero-image,
+.hero-image img {
+  width: min(100%, 38rem);
+  max-height: 42rem;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 1.5rem;
+  box-shadow: 0 1.25rem 3rem rgb(0 0 0 / 18%);
+  display: block;
+  margin-inline: auto;
+}
+
+.portfolio-section,
+.education-summary {
+  padding-block: clamp(1.5rem, 4vw, 3rem);
+}
+
+.education-summary {
+  max-width: 64rem;
+  margin-inline: auto;
+  border-block: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+}
+
+.projects-section {
+  padding-bottom: clamp(2rem, 5vw, 4rem);
+}
+
+/* --------------------------------------------------------------------------
+   Hero social links and action buttons
+   -------------------------------------------------------------------------- */
+
+.hero-social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-block: 1.5rem;
+}
+
+.hero-social-links a {
+  display: inline-flex;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid rgb(37 99 235 / 35%);
+  border-radius: 999px;
+  color: #2563eb;
+  background: rgb(37 99 235 / 7%);
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.hero-social-links a:hover {
+  border-color: rgb(37 99 235 / 65%);
+  background: rgb(37 99 235 / 13%);
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.hero-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem 1.1rem;
+  border: 1px solid transparent;
+  border-radius: 0.65rem;
+  font-weight: 650;
+  line-height: 1;
+  text-decoration: none;
+  transition:
+    transform 160ms ease,
+    background 160ms ease;
+}
+
+.hero-button:hover {
+  transform: translateY(-2px);
+}
+
+.hero-button-primary {
+  color: white;
+  background: #2563eb;
+}
+
+.hero-button-primary:hover {
+  color: white;
+  background: #1d4ed8;
+}
+
+.hero-button-secondary {
+  border-color: rgb(127 127 127 / 35%);
+  color: inherit;
+  background: rgb(127 127 127 / 7%);
+}
+
+.hero-button-secondary:hover {
+  color: inherit;
+  background: rgb(127 127 127 / 14%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .hero-social-links a {
+    color: #7dd3fc;
+    border-color: rgb(125 211 252 / 35%);
+    background: rgb(125 211 252 / 9%);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Experience and project cards
+   -------------------------------------------------------------------------- */
+
+.portfolio-grid {
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.portfolio-card {
+  height: 100%;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, currentColor 15%, transparent);
+  border-radius: 1.1rem;
+  background: color-mix(in srgb, currentColor 3%, transparent);
+  box-shadow: 0 0.45rem 1.4rem rgb(0 0 0 / 8%);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.portfolio-card:hover {
+  transform: translateY(-0.4rem);
+  border-color: color-mix(in srgb, currentColor 28%, transparent);
+  box-shadow: 0 1.1rem 2.5rem rgb(0 0 0 / 14%);
+}
+
+.portfolio-card-image,
+.portfolio-card img {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* Keep logos and diagrams from being awkwardly cropped while photographs fill. */
+.portfolio-card-image img {
+  object-fit: contain;
+}
+
+/* --------------------------------------------------------------------------
+   Landing-page-only footer
+   This is a final content block in index.md, not a site.parts footer, so it
+   does not appear on education or project pages.
+   -------------------------------------------------------------------------- */
+
+.landing-footer {
+  margin-top: 1rem;
+  padding-block: clamp(3.5rem, 8vw, 5.5rem);
+  padding-inline: clamp(1.5rem, 6vw, 5rem);
+  border-radius: 1.5rem 1.5rem 0 0;
+  color: #f8fafc;
+  background:
+    radial-gradient(circle at top right, rgb(56 189 248 / 20%), transparent 38%),
+    linear-gradient(135deg, #0f172a, #172554 58%, #1e3a5f);
+  box-shadow: 0 -0.75rem 2.5rem rgb(0 0 0 / 10%);
+}
+
+.landing-footer h2,
+.landing-footer p,
+.landing-footer a {
+  color: inherit;
+}
+
+.footer-social-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.65rem;
+  margin-block: 1.25rem 1.5rem;
+}
+
+.landing-footer .social-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid rgb(255 255 255 / 28%);
+  border-radius: 999px;
+  color: inherit;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  background: rgb(255 255 255 / 9%);
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    border-color 160ms ease;
+}
+
+.landing-footer .social-links a:hover {
+  border-color: rgb(255 255 255 / 55%);
+  background: rgb(255 255 255 / 17%);
+}
+
+.footer-meta {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  opacity: 0.72;
+}
+
+/* --------------------------------------------------------------------------
+   Responsive and accessibility adjustments
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 640px) {
+  .portfolio-hero {
+    min-height: auto;
+    padding-block: 2.75rem;
+  }
+
+  .hero-image,
+  .hero-image img {
+    max-height: 26rem;
+    border-radius: 1rem;
+  }
+
+  .footer-social-links {
+    gap: 0.5rem;
+  }
+
+  .landing-footer {
+    border-radius: 1rem 1rem 0 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .portfolio-card,
+  .landing-footer .social-links a,
+  .hero-social-links a,
+  .hero-button {
+    transition: none;
+  }
+
+  .portfolio-card:hover,
+  .landing-footer .social-links a:hover,
+  .hero-social-links a:hover,
+  .hero-button:hover {
+    transform: none;
+  }
+}
