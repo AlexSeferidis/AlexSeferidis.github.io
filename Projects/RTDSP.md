@@ -27,4 +27,4 @@ Below are the skills and experiences gained from this project:
 
 ---
 
-![alt](finaldes.png 'title')
+![alt](images/finaldes.png 'title')

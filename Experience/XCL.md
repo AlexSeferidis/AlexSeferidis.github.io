@@ -28,8 +28,8 @@ Below are the skills and experiences gained from the placement:
 
 ---
 
-![alt](xcl_image_transparent.png 'title')
+![alt](images/xcl_image_transparent.png 'title')
 
 ---
 
-![alt](xcl_br.jpg 'title')
+![alt](images/xcl_br.jpg 'title')

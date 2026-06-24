@@ -21,4 +21,4 @@ Below are the skills and experiences gained from the project:
 
 ---
 
-![alt](EEERoverImage.jpg 'title')
+![alt](images/EEERoverImage.jpg 'title')

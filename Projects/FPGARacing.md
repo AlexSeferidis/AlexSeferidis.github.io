@@ -20,4 +20,4 @@ Below are the skills and experiences gained from the project:
 
 ---
 
-![alt](FPGARacingimage.jpg 'title')
+![alt](images/FPGARacingimage.jpg 'title')

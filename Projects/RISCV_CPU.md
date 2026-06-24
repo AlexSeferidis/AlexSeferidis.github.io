@@ -21,4 +21,4 @@ Below are the skills and experiences gained from the project:
 
 ---
 
-![alt text](CPUImage.png 'title')
+![alt text](images/CPUImage.png 'title')

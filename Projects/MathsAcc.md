@@ -20,8 +20,8 @@ Below are the skills and experiences gained from the project:
 
 ---
 
-![alt](FractalDesignImage.png 'title')
+![alt](images/FractalDesignImage.png 'title')
 
 ---
 
-![alt](FractalImage.jpg 'title')
+![alt](images/FractalImage.jpg 'title')

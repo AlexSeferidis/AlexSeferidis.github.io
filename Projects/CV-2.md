@@ -18,4 +18,4 @@ Below are the skills and experiences gained from this project:
 
 ---
 
-![alt](exampletest.png 'title')
+![alt](images/exampletest.png 'title')

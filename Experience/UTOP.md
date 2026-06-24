@@ -17,4 +17,4 @@ Below are the skills and experiences gained from the internship:
 
 ---
 
-![alt](n4mlimage.png 'title')
+![alt](images/n4mlimage.png 'title')

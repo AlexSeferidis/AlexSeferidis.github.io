@@ -39,4 +39,4 @@ Below are the skills and experiences gained from the project:
 
 ---
 
-![image](modelarchitecturenew.png)
+![image](images/modelarchitecturenew.png)

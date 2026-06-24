@@ -21,8 +21,8 @@ Below are the skills and experiences gained from the internship:
 
 ---
 
-![alt](UOB1image.jpg 'title')
+![alt](images/UOB1image.jpg 'title')
 
 ---
 
-![alt](UOB2image.jpg 'title')
+![alt](images/UOB2image.jpg 'title')
