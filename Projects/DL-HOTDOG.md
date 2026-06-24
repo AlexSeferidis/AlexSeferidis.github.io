@@ -22,4 +22,6 @@ Below are the skills and experiences gained from the project:
 
 ![alt](images/final_hotdogs.png 'title')
 
+---
+
 ![alt](images/best_hot_dog_255.png 'title')

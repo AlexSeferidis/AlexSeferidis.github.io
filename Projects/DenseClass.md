@@ -23,4 +23,6 @@ Below are the skills and experiences gained from the project:
 
 ![alt](images/preprodiagram.png 'title')
 
+---
+
 ![alt](images/pca1-pca2.png 'title')
