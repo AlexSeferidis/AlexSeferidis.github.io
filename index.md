@@ -160,7 +160,7 @@ A machine-learning framework for predicting post-endoscopy upper gastrointestina
 :class: portfolio-card-image
 :::
 
-A convolutional network trained to segment tumours and oedema from brain scans.
+A convolutional network trained to segment tumours and edema from brain scans.
 ::::
 
 ::::{card} Mammographic Density Classification
