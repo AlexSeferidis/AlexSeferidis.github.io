@@ -5,29 +5,20 @@
 :sync: tab1
 **Electronic & Information Engineering MEng (Oct. 2022 - Jul. 2026)**
 
-Current Grade: 2:1
+Final Grade: 1st
 
-**1st Year Modules**
+**Awards**
 
-* Digital Electronics and Computer Architecture
-* Analogue and Design of Circuits
-* Programming for Engineers
-* Mathematics for Engineers I
-* Waves
-* Semiconductor Devices
-* Electrical Power
-* Signals and Communications
+* Awarded the Eric Laithwaite Prize for outstanding innovation in the [final year individual project](https://alexseferidis.github.io/peugic)
 
-**2nd Year Modules**
+**4th Year Modules**
 
-* Instruction Architecture and Compilers
-* Signals and Systems
-* Software Systems
-* Discrete Mathematics
-* Mathematics for Engineers II
-* Information Processing
-* Control Systems
-* Communications
+* Digital Image Processing
+* Computational Sensing and Imaging
+* Wavelets, Representation Learning and their Applications
+* Neuroscience for Machine Learners
+* Deep Learning
+* Machine Learning for Imaging
 
 **3rd Year Modules**
 
@@ -40,14 +31,27 @@ Current Grade: 2:1
 * Real-Time Digital Signal Processing
 * Spanish
 
-**4th Year Modules**
+**2nd Year Modules**
 
-* Digital Image Processing
-* Computational Sensing and Imaging
-* Wavelets, Representation Learning and their Applications
-* Neuroscience for Machine Learners
-* Deep Learning
-* Machine Learning for Imaging
+* Instruction Architecture and Compilers
+* Signals and Systems
+* Software Systems
+* Discrete Mathematics
+* Mathematics for Engineers II
+* Information Processing
+* Control Systems
+* Communications
+
+**1st Year Modules**
+
+* Digital Electronics and Computer Architecture
+* Analogue and Design of Circuits
+* Programming for Engineers
+* Mathematics for Engineers I
+* Waves
+* Semiconductor Devices
+* Electrical Power
+* Signals and Communications
 
 **Extra-Curricular**
 

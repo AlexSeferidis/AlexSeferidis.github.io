@@ -49,6 +49,7 @@ Education
 ## Imperial College London
 
 **MEng Electronic & Information Engineering**  
+Grade: 1st  
 Oct. 2022 – Jul. 2026
 
 Specialising with modules spanning machine learning, medical imaging, signal processing, image processing, computational imaging, and computer vision.
@@ -59,6 +60,7 @@ Specialising with modules spanning machine learning, medical imaging, signal pro
 
 Selected experience
 
+(experience)=
 ## Experience
 
 Research and engineering experience across quantum networking, education technology, and bioprocessing.
@@ -69,7 +71,7 @@ Research and engineering experience across quantum networking, education technol
 ::::{card} Quantum Networking Research Internship
 :url: /uob
 :footer: University of Bristol
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Experience/images/UOB1image.jpg
 :alt: Quantum networking research
@@ -83,7 +85,7 @@ Investigating the coexistence of quantum and classical communication systems.
 ::::{card} Textbook of the Future
 :url: /utop
 :footer: Imperial College London
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Experience/images/n4mlimage.png
 :alt: Textbook of the Future project
@@ -97,7 +99,7 @@ Modernising Imperial College London's Neuroscience for Machine Learners course.
 ::::{card} Data and Control Intern
 :url: /xcl
 :footer: Extracellular
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Experience/images/xcl_br.jpg
 :alt: Bioprocessing engineering internship
@@ -114,6 +116,7 @@ Developing software and hardware solutions for bioprocessing engineers and media
 
 Selected work
 
+(projects)=
 ## Projects
 
 A collection of projects and courseworks in a range of engineering fields
@@ -124,7 +127,7 @@ A collection of projects and courseworks in a range of engineering fields
 ::::{card} C to RISC-V Compiler
 :url: /compiler
 :footer: C++ · Compilers · RISC-V
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Projects/images/C_Logo.png
 :alt: C to RISC-V compiler
@@ -138,7 +141,7 @@ A C++ compiler capable of translating a range of C constructs into RISC-V assemb
 ::::{card} PEUGIC Framework
 :url: /peugic
 :footer: Machine learning · Medical imaging
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Projects/images/Design-Diagram.png
 :alt: PEUGIC machine-learning framework
@@ -152,7 +155,7 @@ A machine-learning framework for predicting post-endoscopy upper gastrointestina
 ::::{card} Brain Scan CNN
 :url: /cv-2
 :footer: PyTorch · Segmentation · MRI
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Projects/images/BRATS_004_z108.png
 :alt: Brain tumour segmentation results
@@ -166,7 +169,7 @@ A convolutional network trained to segment tumours and edema from brain scans.
 ::::{card} Mammographic Density Classification
 :url: /denseclass
 :footer: PyTorch · Image Processing · Model evaluation
-:class: portfolio-card
+:class-card: portfolio-card
 
 :::{image} Projects/images/pca1-pca2.png
 :alt: Mammographic density classification
